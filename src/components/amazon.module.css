@@ -1,0 +1,47 @@
+.topmost{
+   display: flex;
+   justify-content: space-between;  
+}
+.casestudy{
+    background-color: black;
+    color: white;
+    font-weight: 600;
+    width: 100px;
+    height: 40px;
+    font-size: 19px;
+    display: flex;
+    align-items: center;
+    padding: 3px;
+}
+.OS{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imgdiv{
+    width: 100px;
+    height: 70px;
+}
+.imgdiv>img{
+    width: 100%;
+    height: 100%;
+}
+.mainouter{
+    background-color: orange;
+    width: 35%;
+    height: auto;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+}
+.mainouterr{
+    background-color: white;
+    width: 35%;
+    height: auto;
+    padding: 20px;
+    margin: auto;
+    margin-top: 30px;
+}
+h1{
+    text-align: left;
+}
